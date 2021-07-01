@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- [x] Desenvolvedor NodeJS e Flutter
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 <!--
 **ZaunSupremoXV/ZaunSupremoXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
