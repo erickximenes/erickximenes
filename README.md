@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - [x] Desenvolvedor NodeJS e Flutter
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Experiencia nas área de Infraestrutura, suporte N1 N2 N3 e desenvolvimento.
 
 <!--
 **ZaunSupremoXV/ZaunSupremoXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
