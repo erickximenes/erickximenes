@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<!--
 <p align="center">
   <span>Português</span> |
   <a href="https://github.com/ZaunSupremoXV/ZaunSupremoXV/README.md">Português</a>
 </p>
+
+-->
 
 - [x] Desenvolvedor NodeJS e Flutter
 - [x] Experiência nas áreas de Infraestrutura, suporte N1 N2 N3 e desenvolvimento.
