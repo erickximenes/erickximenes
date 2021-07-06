@@ -34,6 +34,6 @@ object **ERICK** {
 
 #### Rede Sociais!
 
-[![Linkedin: Erick Vasconcelos](https://img.shields.io/badge/-Erick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-vasconcelos-50baa8150/)](https://www.linkedin.com/in/erick-vasconcelos-50baa8150/)
+[![Linkedin: Erick Vasconcelos](https://img.shields.io/badge/-Erick_Vasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-vasconcelos-50baa8150/)](https://www.linkedin.com/in/erick-vasconcelos-50baa8150/)
 [![Gmail Badge](https://img.shields.io/badge/-erick_vasconcelos_contato@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick_vasconcelos_contato@outlook.com)](mailto:erick_vasconcelos_contato@outlook.com)
 
