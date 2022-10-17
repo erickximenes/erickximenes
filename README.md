@@ -1,6 +1,6 @@
 ### Oie 👋 devs 👨‍💻
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. Sou dev mobile em Flutter a 4 anos e dev Full Stack NodeJS a 4 anos. 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -9,36 +9,95 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 object **ERICK** {
  val name = "Erick X. Vasconcelos"
- val acknowledgements = "Desenvolvimento Mobile e Web, API REST, Infraestrutura"
+ val acknowledgements = "Desenvolvimento Mobile e Web e Full Stack em NodeJS."
  
  val primarySkillset = ["Docker", "Android", "API REST"]
- val languages = listOf("NodeJS", "Python", "JavaScript", "Flutter", "Bash") 
+ val languages = listOf("Flutter", "NodeJS", "Python", "JavaScript", "Bash") 
 
 }
 ```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaunSupremoXV&show_icons=true&theme=tokyonight)
+
+## **Linguagens e Ferramentas**  
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 
-## **Linguagens e Ferramentas:**  
+-----
+<details>
+  <summary>☎️ Contate-me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/erick-vasconcelos-50baa8150/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://fb.com/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:erick_vasconcelos_contato@outlook.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>         
+      <a href="https://wa.me/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://i.imgur.com/DKdHLuw.png"></code>
-<code><img height="30" src="https://i.imgur.com/l6T02q5.png"></code>
+<details> 
+  <summary>💻 Estatísticas do perfil </summary>
+  <div>
+  <samp>
+    <h2 align="center"> Estatísticas do Github </h2>
+      <br/>
+    <details open>
+  <summary><h3>Linguagens</h3></summary>
+            <p align="center">
+        <a href="https://github.com/ZaunSupremoXV/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaunSupremoXV&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="ZaunSupremoXV :: overall Top Langs " /></a>
+      </p>        
+</details>
+    <details open>
+  <summary><h3>Mais informações</h3></summary>
+        <p align="center">
+          <a href="https://github.com/ZaunSupremoXV/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ZaunSupremoXV&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaunSupremoXV&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaunSupremoXV&theme=tokyonight)
+-----
 
-
-
-#### Rede Sociais!
-
-[![Linkedin: Erick Vasconcelos](https://img.shields.io/badge/-Erick_Vasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-vasconcelos-50baa8150/)](https://www.linkedin.com/in/erick-vasconcelos-50baa8150/)
-[![Gmail Badge](https://img.shields.io/badge/-erick_vasconcelos_contato@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick_vasconcelos_contato@outlook.com)](mailto:erick_vasconcelos_contato@outlook.com)
 
