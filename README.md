@@ -90,7 +90,7 @@ object **ERICK** {
         <p align="center">
           <a href="https://github.com/ZaunSupremoXV/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ZaunSupremoXV&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaunSupremoXV&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaunSupremoXV&theme=gruvbox&hide_border=true" />          
           </a>
        </p>
      <br>
