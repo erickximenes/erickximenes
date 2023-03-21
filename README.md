@@ -17,6 +17,8 @@ object **ERICK** {
 }
 ```
 
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/theashishgavade/theashishgavade/blob/master/GIF/github.gif"></a>
+<br/>
 
 ## **Linguagens e Ferramentas**  
 
@@ -41,6 +43,8 @@ object **ERICK** {
 
 
 -----
+<br/>
+<br/>
 <details>
   <summary>☎️ Contate-me</summary>
 <div>
