@@ -80,17 +80,17 @@ object **ERICK** {
     <details open>
   <summary><h3>Linguagens</h3></summary>
             <p align="center">
-        <a href="https://github.com/ZaunSupremoXV/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaunSupremoXV&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/erickximenes/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickximenes&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="ZaunSupremoXV :: overall Top Langs " /></a>
       </p>        
 </details>
     <details open>
   <summary><h3>Mais informações</h3></summary>
         <p align="center">
-          <a href="https://github.com/ZaunSupremoXV/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ZaunSupremoXV&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaunSupremoXV&theme=gruvbox&hide_border=true" />          
+          <a href="https://github.com/erickximenes/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=erickximenes&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=erickximenes&theme=gruvbox&hide_border=true" />          
           </a>
        </p>
      <br>
