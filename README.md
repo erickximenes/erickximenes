@@ -1,6 +1,6 @@
 ### Oie 👋 devs 👨‍💻
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo. Sou dev mobile em Flutter a 4 anos e dev Full Stack NodeJS a 4 anos. 
+👨‍💻 Desenvolvedor Full Stack especializado em Node.js e Flutter, com uma paixão particular pelo backend. Com uma sólida formação em TypeScript, JavaScript e Python, sou comprometido com a entrega de soluções de alta qualidade, seguindo as melhores práticas de desenvolvimento, como TDD e clean code. Possuo experiência significativa em frameworks como AdonisJS e NuxtJS, o que me permite criar sistemas web escaláveis e eficientes. Além disso, como desenvolvedor mobile em Flutter, tenho experiência em criar aplicativos elegantes e funcionais. Meu conhecimento abrange diversos bancos de dados, incluindo MySQL, MongoDB e PostgreSQL, e sou capaz de integrar essas tecnologias de forma eficaz em meus projetos. Trabalho com serviços em nuvem, como Firebase e AWS, para fornecer soluções modernas e escaláveis. Sempre em busca de desafios estimulantes e oportunidades para continuar crescendo como desenvolvedor Full Stack. Let's code! 🚀
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
